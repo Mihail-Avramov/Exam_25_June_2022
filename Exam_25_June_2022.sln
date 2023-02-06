@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiles Master", "Tiles Master\Tiles Master.csproj", "{10EE062E-FD1E-4504-A5BA-72E175419F00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallDestroyer", "WallDestroyer\WallDestroyer.csproj", "{E33FB7C7-2546-4BA0-9366-4E3F97B68116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renovators", "Renovators\Renovators.csproj", "{8136FB5A-40B0-4A1A-B294-E5237C4BF631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{10EE062E-FD1E-4504-A5BA-72E175419F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EE062E-FD1E-4504-A5BA-72E175419F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EE062E-FD1E-4504-A5BA-72E175419F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33FB7C7-2546-4BA0-9366-4E3F97B68116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33FB7C7-2546-4BA0-9366-4E3F97B68116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33FB7C7-2546-4BA0-9366-4E3F97B68116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33FB7C7-2546-4BA0-9366-4E3F97B68116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8136FB5A-40B0-4A1A-B294-E5237C4BF631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8136FB5A-40B0-4A1A-B294-E5237C4BF631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8136FB5A-40B0-4A1A-B294-E5237C4BF631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8136FB5A-40B0-4A1A-B294-E5237C4BF631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
